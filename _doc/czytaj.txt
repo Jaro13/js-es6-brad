@@ -1,0 +1,64 @@
+https://babeljs.io/repl/
+
+let my
+
+automatyczna konwerja na 
+
+
+es5
+
+
+//tutaj bardzo skomplikowane
+
+class user	{
+}
+
+
+---
+
+czy moge uzywac
+
+https://kangax.github.io/compat-table/es6/
+
+---
+
+npm init
+
+npm install --save-dev babel-cli babel-preset-env
+
+
+
+---
+
+https://github.com/bradtraversy/youtube_es2015_source
+
+---------
+
+wgrać ścieżki
+
+
+disc
+
+source
+
+
+----
+
+
+npm run build
+
+---------
+
+test na tym kodzie
+
+let test = 'hello world';
+
+
+class User {
+    register() {
+        console.log('ok');
+    }
+}
+
+
+---------
